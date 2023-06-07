@@ -1,0 +1,41 @@
+.sticky-nav {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: teal;
+    color: black;
+  }
+
+  .bookingForm{
+      align-self: center;
+      text-align: center;
+  }
+  body{
+    background-color:aqua;
+  }
+  .cardtext{
+    background-color: bisque;
+    text-align: center;
+    border-radius: 10px;
+
+  }
+  .cardTitle{
+    text-align: center;
+    background-color: pink;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  .btn{
+    margin-left: 70px;
+  }
+  .mt-4{
+    font-size: 20px;
+  }
+
+  .mt-4::first-letter{
+    color: gray;
+    font-size: 36px;
+  }
+  
+  
